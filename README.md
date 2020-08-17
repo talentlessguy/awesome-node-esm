@@ -1,6 +1,8 @@
 # awesome-node-esm
 
-A curated list of projects targeting Node.js native ESM
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+A curated list of projects targeting Node.js native ES Modules.
 
 ## Contents
 
