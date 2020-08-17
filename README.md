@@ -26,7 +26,7 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ## Packages
 
-### Web-frameworks
+### Web frameworks
 
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - a tiny web framework as a replacement of Express.
 
