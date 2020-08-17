@@ -5,7 +5,7 @@ A curated list of projects targeting Node.js native ESM
 ## Contents
 
 - [Articles](#articles)
-- [Bundlers/compilers](#bundlers-compilers)
+- [Bundlers/compilers](#bundlerscompilers)
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [Testing](#testing)
@@ -19,7 +19,8 @@ A curated list of projects targeting Node.js native ESM
 
 ## Bundlers/compilers
 
-- ...
+- [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier.
+- [tsup](https://github.com/egoist/tsup) -  Bundle your TypeScript library with no config, powered by esbuild. 
 
 ## Packages
 
