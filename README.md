@@ -10,6 +10,7 @@ A curated list of projects targeting Node.js native ES Modules.
 - [Bundlers/compilers](#bundlerscompilers)
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
+  - [HTTP](#http)
   - [Testing](#testing)
   - [Colors](#colors)
   - [Date](#date)
@@ -30,6 +31,10 @@ A curated list of projects targeting Node.js native ES Modules.
 ### Web frameworks
 
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - a tiny web framework as a replacement of Express.
+
+### HTTP
+
+- [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
 
 ### Testing
 
