@@ -13,6 +13,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Testing](#testing)
   - [Colors](#colors)
   - [Date](#date)
+  - [Utility](#object) (value manipulations)
 
 
 ## Articles
@@ -36,8 +37,13 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ### Colors
 
-- [colorette](https://github.com/jorgebucaran/colorette) - Color your terminal using pure idiomatic JavaScript.
+- [colorette](https://github.com/jorgebucaran/colorette) - color your terminal using pure idiomatic JavaScript.
 
 ### Date
 
-- [tinydate](https://github.com/lukeed/tinydate) - A tiny (349B) reusable date formatter. 
+- [tinydate](https://github.com/lukeed/tinydate) - a tiny (349B) reusable date formatter. 
+
+### Utility
+
+- [dequal](https://github.com/lukeed/dequal) - a tiny (304B to 489B) utility to check for deep equality
+- [klona](https://github.com/lukeed/klona) - a tiny (240B to 507B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
