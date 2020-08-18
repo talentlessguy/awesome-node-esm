@@ -49,6 +49,6 @@ A curated list of projects targeting Node.js native ES Modules.
 - [dequal](https://github.com/lukeed/dequal) - a tiny (304B to 489B) utility to check for deep equality
 - [klona](https://github.com/lukeed/klona) - a tiny (240B to 507B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 
-## Random
+### Random
 
 - [uuid](https://github.com/lukeed/uuid) - tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
