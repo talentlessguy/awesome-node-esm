@@ -19,6 +19,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Parsing](#parsing)
   - [Compression](#compression)
   - [Multi-thread](#multi-thread)
+  - [Other](#other)
 
 ## Articles
 
@@ -76,4 +77,8 @@ A curated list of projects targeting Node.js native ES Modules.
 - [anzip](https://github.com/mikbry/anzip) - simple async unzip library for Node.js
 
 ### Multi-thread
+
+### Other
+
+- [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 
