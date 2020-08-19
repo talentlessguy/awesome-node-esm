@@ -17,6 +17,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Utility](#utility) (value manipulations)
   - [Random](#random)
   - [Parsing](#parsing)
+  - [Compression)(#compression)
   - [Multi-thread](#multi-thread)
 
 ## Articles
@@ -68,6 +69,10 @@ A curated list of projects targeting Node.js native ES Modules.
 ### Parsing
 
 - [snarkdown](https://github.com/developit/snarkdown) - a snarky 1kb Markdown parser written in JavaScript
+
+### Compression
+
+- [anzip](https://github.com/mikbry/anzip) - simple async unzip library for Node.js
 
 ### Multi-thread
 
