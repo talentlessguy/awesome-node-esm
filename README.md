@@ -43,6 +43,7 @@ A curated list of projects targeting Node.js native ES Modules.
 ### Testing
 
 - [uvu](https://github.com/lukeed/uvu) - an extremely fast and lightweight test runner for Node.js and the browser.
+- [oletus](https://github.com/bearror/oletus) - minimal ECMAScript Module test runner
 
 ### Colors
 
