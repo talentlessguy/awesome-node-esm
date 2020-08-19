@@ -17,6 +17,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Utility](#utility) (value manipulations)
   - [Random](#random)
   - [Parsing](#parsing)
+  - [Multi-thread](#multi-thread)
 
 ## Articles
 
@@ -49,12 +50,15 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ### Date
 
+- [dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API
 - [tinydate](https://github.com/lukeed/tinydate) - a tiny (349B) reusable date formatter. 
 
 ### Utility
 
 - [dequal](https://github.com/lukeed/dequal) - a tiny (304B to 489B) utility to check for deep equality
 - [klona](https://github.com/lukeed/klona) - a tiny (240B to 507B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
+- [dlv](https://github.com/developit/dlv) - Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')
+
 
 ### Random
 
@@ -63,3 +67,7 @@ A curated list of projects targeting Node.js native ES Modules.
 ### Parsing
 
 - [snarkdown](https://github.com/developit/snarkdown) - a snarky 1kb Markdown parser written in JavaScript
+
+### Multi-thread
+
+- [greenlet](https://github.com/developit/greenlet) - 
