@@ -17,7 +17,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Utility](#utility) (value manipulations)
   - [Random](#random)
   - [Parsing](#parsing)
-  - [Compression)(#compression)
+  - [Compression](#compression)
   - [Multi-thread](#multi-thread)
 
 ## Articles
