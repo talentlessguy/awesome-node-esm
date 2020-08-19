@@ -71,4 +71,3 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ### Multi-thread
 
-- [greenlet](https://github.com/developit/greenlet) - 
