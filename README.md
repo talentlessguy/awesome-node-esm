@@ -52,6 +52,7 @@ A curated list of projects targeting Node.js native ES Modules.
 
 - [dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API
 - [tinydate](https://github.com/lukeed/tinydate) - a tiny (349B) reusable date formatter. 
+- [tempe](https://github.com/masbagal/tempe) - Featherlight (< 2kB) helper for Javascript date formatting
 
 ### Utility
 
