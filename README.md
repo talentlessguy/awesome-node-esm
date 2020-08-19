@@ -16,6 +16,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Date](#date)
   - [Utility](#utility) (value manipulations)
   - [Random](#random)
+  - [Parsing](#parsing)
 
 ## Articles
 
@@ -57,3 +58,7 @@ A curated list of projects targeting Node.js native ES Modules.
 ### Random
 
 - [uuid](https://github.com/lukeed/uuid) - tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
+
+### Parsing
+
+- [snarkdown](https://github.com/developit/snarkdown) - a snarky 1kb Markdown parser written in JavaScript
