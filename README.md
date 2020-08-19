@@ -36,6 +36,7 @@ A curated list of projects targeting Node.js native ES Modules.
 ### HTTP
 
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
+- [redaxios](https://github.com/developit/redaxios) - the Axios API, as an 800 byte Fetch wrapper.
 
 ### Testing
 
