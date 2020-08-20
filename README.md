@@ -78,6 +78,10 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ### Multi-thread
 
+### AST
+
+- [acorn](https://github.com/acornjs/acorn) - a small, fast, JavaScript-based JavaScript parser
+
 ### Other
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
