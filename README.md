@@ -19,6 +19,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Parsing](#parsing)
   - [Compression](#compression)
   - [Multi-thread](#multi-thread)
+  - [AST](#ast)
   - [Other](#other)
 
 ## Articles
