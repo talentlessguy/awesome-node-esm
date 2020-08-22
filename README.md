@@ -13,7 +13,6 @@ A curated list of projects targeting Node.js native ES Modules.
   - [HTTP](#http)
   - [Testing](#testing)
   - [CLI](#cli)
-  - [Colors](#colors)
   - [Date](#date)
   - [Utility](#utility) (value manipulations)
   - [Random](#random)
@@ -50,9 +49,11 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ### CLI
 
+#### Argument parsing
+
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 
-### Colors
+#### Colors
 
 - [colorette](https://github.com/jorgebucaran/colorette) - color your terminal using pure idiomatic JavaScript.
 - [kleur](https://github.com/lukeed/kleur) - the fastest Node.js library for formatting terminal text with ANSI colors~!
