@@ -12,6 +12,7 @@ A curated list of Node.js Native ESM modules and resources.
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
   - [Databases](#databases)
+  - [Logging](#logging)
   - [Testing](#testing)
   - [CLI](#cli)
   - [Date](#date)
@@ -51,7 +52,12 @@ A curated list of Node.js Native ESM modules and resources.
 
 ### Databases
 
-- [rxdb](https://github.com/pubkey/rxdb) - a realtime Database for JavaScript Applications. 
+- [rxdb](https://github.com/pubkey/rxdb) - a realtime Database for JavaScript Applications.
+
+### Logging
+
+- [logtown](https://github.com/logtown/logtown) - simple Logging Facade for JavaScript.
+- [oddlog](https://gitlab.com/frissdiegurke/oddlog) - high-performance payload focused logging library for node.js.
 
 ### Testing
 
