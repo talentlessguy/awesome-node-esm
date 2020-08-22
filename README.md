@@ -25,7 +25,8 @@ A curated list of projects targeting Node.js native ES Modules.
 
 ## Articles
 
-- ...
+- [ECMAScript Modules Node.js docs](https://nodejs.org/api/esm.html)
+- [Using ES modules natively in Node.js](https://2ality.com/2017/09/native-esm-node.html)
 
 ## Bundlers/compilers
 
