@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of projects targeting Node.js native ES Modules.
+A curated list of projects and resources about Node.js native ES Modules.
 
 ## Contents
 
