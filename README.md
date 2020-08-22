@@ -30,7 +30,8 @@ A curated list of projects targeting Node.js native ES Modules.
 ## Bundlers/compilers
 
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier.
-- [tsup](https://github.com/egoist/tsup) -  Bundle your TypeScript library with no config, powered by esbuild. 
+- [tsup](https://github.com/egoist/tsup) -  Bundle your TypeScript library with no config, powered by esbuild.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES Module bundler.
 
 ## Packages
 
