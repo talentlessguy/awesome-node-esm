@@ -124,3 +124,4 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 - [cashify](https://github.com/xxczaki/cashify) - lightweight currency conversion library, successor of money.js
+- [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
