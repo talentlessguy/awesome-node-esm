@@ -20,6 +20,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Compression](#compression)
   - [Multi-thread](#multi-thread)
   - [AST](#ast)
+  - [Functional programming](#function-programming)
   - [Other](#other)
 
 ## Articles
@@ -81,6 +82,11 @@ A curated list of projects targeting Node.js native ES Modules.
 ### AST
 
 - [acorn](https://github.com/acornjs/acorn) - a small, fast, JavaScript-based JavaScript parser
+
+### Functional programming
+
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+
 
 ### Other
 
