@@ -20,7 +20,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Compression](#compression)
   - [Multi-thread](#multi-thread)
   - [AST](#ast)
-  - [Functional programming](#function-programming)
+  - [Functional programming](#functional-programming)
   - [Other](#other)
 
 ## Articles
