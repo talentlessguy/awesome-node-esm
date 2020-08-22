@@ -11,6 +11,7 @@ A curated list of Node.js Native ESM modules and resources.
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
+  - [Databases](#databases)
   - [Testing](#testing)
   - [CLI](#cli)
   - [Date](#date)
@@ -47,6 +48,10 @@ A curated list of Node.js Native ESM modules and resources.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
 - [kitsu](https://github.com/wopian/kitsu) - A simple, lightweight & framework agnostic JSON:API client
+
+### Databases
+
+- [rxdb](https://github.com/pubkey/rxdb) - a realtime Database for JavaScript Applications. 
 
 ### Testing
 
@@ -103,6 +108,7 @@ A curated list of Node.js Native ESM modules and resources.
 ### Functional programming
 
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [ramda](https://github.com/Ramda/ramda) - practical functional Javascript.
 
 ### Math
 
