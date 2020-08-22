@@ -22,6 +22,7 @@ A curated list of Node.js Native ESM modules and resources.
   - [Multi-thread](#multi-thread)
   - [AST](#ast)
   - [Functional programming](#functional-programming)
+  - [Math](#math)
   - [Other](#other)
 
 ## Articles
@@ -101,6 +102,9 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 
+### Math
+
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 
 ### Other
 
