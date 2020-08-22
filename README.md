@@ -44,7 +44,14 @@ A curated list of Node.js Native ESM modules and resources.
 
 ### HTTP
 
+#### Clients
+
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
+- [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie! 
+
+#### Headers
+
+- [es-accepts](https://github.com/talentlessguy/es-accepts) - `accepts` rewrite in TypeScript with ESM and CommonJS targets
 
 ### Testing
 
