@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of projects and resources about Node.js native ES Modules.
+A curated list of Node.js Native ESM modules and resources.
 
 ## Contents
 
