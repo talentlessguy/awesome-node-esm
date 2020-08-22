@@ -12,6 +12,7 @@ A curated list of projects targeting Node.js native ES Modules.
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
   - [Testing](#testing)
+  - [CLI](#cli)
   - [Colors](#colors)
   - [Date](#date)
   - [Utility](#utility) (value manipulations)
@@ -46,6 +47,10 @@ A curated list of projects targeting Node.js native ES Modules.
 
 - [uvu](https://github.com/lukeed/uvu) - an extremely fast and lightweight test runner for Node.js and the browser.
 - [oletus](https://github.com/bearror/oletus) - minimal ECMAScript Module test runner
+
+### CLI
+
+- [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 
 ### Colors
 
