@@ -81,6 +81,7 @@ A curated list of Node.js Native ESM modules and resources.
 ### Random
 
 - [uuid](https://github.com/lukeed/uuid) - tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
+- [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Parsing
 
