@@ -31,6 +31,7 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [ECMAScript Modules Node.js docs](https://nodejs.org/api/esm.html)
 - [Using ES modules natively in Node.js](https://2ality.com/2017/09/native-esm-node.html)
+- [ES Modules in Node today](https://blog.logrocket.com/es-modules-in-node-today)
 
 ## Bundlers/compilers
 
