@@ -118,6 +118,7 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [ramda](https://github.com/Ramda/ramda) - practical functional Javascript.
+- [smoldash](https://github.com/marvinhagemeister/smoldash) - A tiny lodash alternative built for the modern web
 
 ### Math
 
