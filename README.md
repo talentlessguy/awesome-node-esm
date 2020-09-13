@@ -51,7 +51,7 @@ A curated list of Node.js Native ESM modules and resources.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
 - [kitsu](https://github.com/wopian/kitsu) - A simple, lightweight & framework agnostic JSON:API client
-- [parsec](https://github.com/talentlessguy/parsec) – Asynchronous body parser for Node.js
+- [parsec](https://github.com/talentlessguy/parsec) – Tiniest Node.js body parser ever
 
 ### Databases
 
