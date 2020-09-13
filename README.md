@@ -21,7 +21,7 @@ A curated list of Node.js Native ESM modules and resources.
   - [Random](#random)
   - [Parsing](#parsing)
   - [Compression](#compression)
-  - [Multi-thread](#multi-thread)
+  - [Cluster](#cluster)
   - [AST](#ast)
   - [Functional programming](#functional-programming)
   - [Math](#math)
@@ -109,7 +109,7 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [anzip](https://github.com/mikbry/anzip) - simple async unzip library for Node.js
 
-### Multi-thread
+### Cluster
 
 ### AST
 
