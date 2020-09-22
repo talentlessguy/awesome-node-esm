@@ -44,7 +44,7 @@ A curated list of Node.js Native ESM modules and resources.
 ### Web frameworks
 
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - a tiny web framework as a replacement of Express.
-- [polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance!
+- [polka](https://github.com/lukeed/polka) (alpha only) - A micro web server so fast, it'll make you dance!
 
 ### HTTP
 
