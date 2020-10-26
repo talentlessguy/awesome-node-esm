@@ -109,8 +109,6 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [anzip](https://github.com/mikbry/anzip) - simple async unzip library for Node.js
 
-### Cluster
-
 ### AST
 
 - [acorn](https://github.com/acornjs/acorn) - a small, fast, JavaScript-based JavaScript parser
