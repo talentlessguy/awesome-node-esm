@@ -11,6 +11,8 @@ A curated list of Node.js Native ESM modules and resources.
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
+  - [Template engines](#template-engines)
+  - [SSR tools](#ssr-tools)
   - [Databases](#databases)
   - [Logging](#logging)
   - [Testing](#testing)
@@ -52,6 +54,14 @@ A curated list of Node.js Native ESM modules and resources.
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
 - [kitsu](https://github.com/wopian/kitsu) - A simple, lightweight & framework agnostic JSON:API client
 - [milliparsec](https://github.com/talentlessguy/milliparsec) – Tiniest Node.js body parser ever
+
+### Template engines
+
+- [eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser
+
+### SSR tools
+
+- [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
 
 ### Databases
 
@@ -127,4 +137,3 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 - [cashify](https://github.com/xxczaki/cashify) - lightweight currency conversion library, successor of money.js
-- [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
