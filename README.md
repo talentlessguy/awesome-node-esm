@@ -62,6 +62,7 @@ A curated list of Node.js Native ESM modules and resources.
 ### SSR tools
 
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
+- [hyperapp-render](https://github.com/kriasoft/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
 
 ### Databases
 
