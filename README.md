@@ -132,6 +132,7 @@ A curated list of Node.js Native ESM modules and resources.
 ### Performance
 
 - [piscina](https://github.com/piscinajs/piscina) - a fast, efficient Node.js Worker Thread Pool implementation
+- [nanodelay](https://github.com/ai/nanodelay) - a tiny (25 bytes) Promise wrapper around setTimeout 
 
 ### AST
 
@@ -142,6 +143,7 @@ A curated list of Node.js Native ESM modules and resources.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [ramda](https://github.com/Ramda/ramda) - practical functional Javascript.
 - [smoldash](https://github.com/marvinhagemeister/smoldash) - A tiny lodash alternative built for the modern web
+- [deepdash](https://github.com/YuriGor/deepdash) - tree traversal library written in Underscore/Lodash fashion 
 
 ### Math
 
