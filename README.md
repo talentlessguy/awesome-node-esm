@@ -58,7 +58,7 @@ A curated list of Node.js Native ESM modules and resources.
 
 ### Body parsers
 
-- [milliparsec](https://github.com/talentlessguy/milliparsec) – Tiniest Node.js body parser ever
+- [milliparsec](https://github.com/talentlessguy/milliparsec) - tiniest Node.js body parser ever
 
 ### Static servers
 
