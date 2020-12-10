@@ -11,6 +11,8 @@ A curated list of Node.js Native ESM modules and resources.
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
+  - [Body parsers](#body-parsers)
+  - [Static servers](#static-servers)
   - [Template engines](#template-engines)
   - [SSR tools](#ssr-tools)
   - [Databases](#databases)
@@ -53,7 +55,14 @@ A curated list of Node.js Native ESM modules and resources.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
 - [kitsu](https://github.com/wopian/kitsu) - A simple, lightweight & framework agnostic JSON:API client
+
+### Body parsers
+
 - [milliparsec](https://github.com/talentlessguy/milliparsec) – Tiniest Node.js body parser ever
+
+### Static servers
+
+- [sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~! 
 
 ### Template engines
 
