@@ -7,7 +7,7 @@ A curated list of Node.js Native ESM modules and resources.
 ## Contents
 
 - [Articles](#articles)
-- [Bundlers/compilers](#bundlerscompilers)
+- [Tools](#tools)
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
@@ -37,24 +37,25 @@ A curated list of Node.js Native ESM modules and resources.
 - [Using ES modules natively in Node.js](https://2ality.com/2017/09/native-esm-node.html)
 - [ES Modules in Node today](https://blog.logrocket.com/es-modules-in-node-today)
 
-## Bundlers/compilers
+## Tools
 
-- [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier.
-- [tsup](https://github.com/egoist/tsup) -  Bundle your TypeScript library with no config, powered by esbuild.
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES Module bundler.
+- [esbuild](https://github.com/evanw/esbuild) - an extremely fast JavaScript bundler and minifier.
+- [tsup](https://github.com/egoist/tsup) - bundle your TypeScript library with no config, powered by esbuild.
+- [rollup](https://github.com/rollup/rollup) - next-generation ES Module bundler.
+- [dual-publish](https://github.com/ai/dual-publish) - publish JS project as dual ES modules and CommonJS package to npm
 
 ## Packages
 
 ### Web frameworks
 
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - a tiny web framework as a replacement of Express.
-- [polka](https://github.com/lukeed/polka) (alpha only) - A micro web server so fast, it'll make you dance!
+- [polka](https://github.com/lukeed/polka) (alpha only) - a micro web server so fast, it'll make you dance!
 
 ### HTTP
 
 - [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
-- [kitsu](https://github.com/wopian/kitsu) - A simple, lightweight & framework agnostic JSON:API client
+- [kitsu](https://github.com/wopian/kitsu) - a simple, lightweight & framework agnostic JSON:API client
 
 ### Body parsers
 
@@ -62,16 +63,16 @@ A curated list of Node.js Native ESM modules and resources.
 
 ### Static servers
 
-- [sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~! 
+- [sirv](https://github.com/lukeed/sirv) - an optimized middleware & CLI application for serving static files~! 
 
 ### Template engines
 
-- [eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser
+- [eta](https://github.com/eta-dev/eta) - embedded JS template engine for Node, Deno, and the browser
 
 ### SSR tools
 
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
-- [hyperapp-render](https://github.com/kriasoft/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
+- [hyperapp-render](https://github.com/kriasoft/hyperapp-render) - render Hyperapp to an HTML string with SSR and Node.js streaming support.
 
 ### Databases
 
