@@ -154,3 +154,4 @@ A curated list of Node.js Native ESM modules and resources.
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 - [cashify](https://github.com/xxczaki/cashify) - lightweight currency conversion library, successor of money.js
+- [streamdown](https://github.com/talentlessguy/streamdown) - stream markdown to HTML 
