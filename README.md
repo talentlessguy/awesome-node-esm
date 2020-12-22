@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of Node.js Native ESM modules and resources.
+A curated list of Node.js modules with native ESM support and resources about ES Modules in Node.js.
 
 ## Contents
 
