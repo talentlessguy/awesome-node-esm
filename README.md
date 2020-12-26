@@ -83,6 +83,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [logtown](https://github.com/logtown/logtown) - simple Logging Facade for JavaScript.
 - [oddlog](https://gitlab.com/frissdiegurke/oddlog) - high-performance payload focused logging library for node.js.
+- [diary](https://github.com/maraisr/diary) - zero-dependency, fast logging library for both Node and Browser. 
 
 ### Testing
 
