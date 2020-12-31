@@ -48,15 +48,21 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 ### Web frameworks
 
-- [tinyhttp](https://github.com/talentlessguy/tinyhttp) - a tiny web framework as a replacement of Express.
-- [polka](https://github.com/lukeed/polka) (alpha only) - a micro web server so fast, it'll make you dance!
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp) - tiny web framework as a replacement of Express.
+- [polka](https://github.com/lukeed/polka) (alpha only) - micro web server so fast, it'll make you dance!
 - [koa](https://github.com/koajs/koa) - expressive middleware for node.js using ES2017 async functions 
 
 ### HTTP
 
-- [node-fetch](https://github.com/node-fetch/node-fetch) - a light-weight module that brings window.fetch to Node.js
+#### HTTP Clients
+
+- [node-fetch](https://github.com/node-fetch/node-fetch) - light-weight module that brings window.fetch to Node.js
 - [httpie](https://github.com/lukeed/httpie) - a Node.js HTTP client as easy as pie!
-- [kitsu](https://github.com/wopian/kitsu) - a simple, lightweight & framework agnostic JSON:API client
+
+#### API Clients
+
+- [kitsu](https://github.com/wopian/kitsu) - simple, lightweight & framework agnostic JSON:API client
+- [twitter-lite](https://github.com/draftbit/twitter-lite) - tiny, full-featured, flexible client / server library for the Twitter API 
 
 ### Body parsers
 
@@ -83,7 +89,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [logtown](https://github.com/logtown/logtown) - simple Logging Facade for JavaScript.
 - [oddlog](https://gitlab.com/frissdiegurke/oddlog) - high-performance payload focused logging library for node.js.
-- [diary](https://github.com/maraisr/diary) - zero-dependency, fast logging library for both Node and Browser. 
+- [diary](https://github.com/maraisr/diary) - zero-dependency, fast logging library for both Node and Browser.
 
 ### Testing
 
@@ -111,11 +117,12 @@ A curated list of Node.js modules with native ESM support and resources about ES
 ### File system
 
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+- [@tinyhttp/dotenv](https://github.com/talentlessguy/tinyhttp/tree/master/packages/dotenv) - A rewrite of [dotenv](https://github.com/motdotla/dotenv) module.
 
 ### Utility
 
-- [dequal](https://github.com/lukeed/dequal) - a tiny (304B to 489B) utility to check for deep equality
-- [klona](https://github.com/lukeed/klona) - a tiny (240B to 507B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
+- [dequal](https://github.com/lukeed/dequal) - tiny (304B to 489B) utility to check for deep equality
+- [klona](https://github.com/lukeed/klona) - tiny (240B to 507B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [dlv](https://github.com/developit/dlv) - Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')
 
 
