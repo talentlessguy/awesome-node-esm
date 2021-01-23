@@ -76,10 +76,12 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [eta](https://github.com/eta-dev/eta) - embedded JS template engine for Node, Deno, and the browser
 
-### SSR tools
+### SSR
 
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - universal rendering for Preact: render JSX and Preact components to HTML.
 - [hyperapp-render](https://github.com/kriasoft/hyperapp-render) - render Hyperapp to an HTML string with SSR and Node.js streaming support.
+- [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp 
+- [streamdown](https://github.com/talentlessguy/streamdown) - stream markdown to HTML 
 
 ### Databases
 
@@ -163,4 +165,3 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 - [cashify](https://github.com/xxczaki/cashify) - lightweight currency conversion library, successor of money.js
-- [streamdown](https://github.com/talentlessguy/streamdown) - stream markdown to HTML 
