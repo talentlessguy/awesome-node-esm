@@ -1,4 +1,4 @@
-# awesome-node-esm
+# Awesome Node ESM
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
