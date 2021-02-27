@@ -3,7 +3,7 @@
 ### General rules.
 
 1. Link format: `[name](link) - description` 
-2. All submissions must have `"module"` field so they can be used with ESM out of the box.
+2. All submissions must have `"module"` or `"exports"` fields so they can be used with ESM out of the box. You can check if the module can be used with ESM by running `is-esm <mod>`
 
 ### Adding new project
 
