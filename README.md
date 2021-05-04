@@ -43,6 +43,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [tsup](https://github.com/egoist/tsup) - bundle your TypeScript library with no config, powered by esbuild.
 - [rollup](https://github.com/rollup/rollup) - next-generation ES Module bundler.
 - [dual-publish](https://github.com/ai/dual-publish) - publish JS project as dual ES modules and CommonJS package to npm
+- [cjstoesm](https://github.com/wessberg/cjstoesm) - tool that can transform CommonJS to ESM 
 
 ## Packages
 
