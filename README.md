@@ -52,7 +52,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - tiny web framework as a replacement of Express.
 - [polka](https://github.com/lukeed/polka) (alpha only) - micro web server so fast, it'll make you dance!
-- [koa](https://github.com/koajs/koa) - expressive middleware for node.js using ES2017 async functions 
+- [koa](https://github.com/koajs/koa) - expressive middleware for node.js using ES2017 async functions
 
 ### HTTP
 
@@ -66,13 +66,11 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [kitsu](https://github.com/wopian/kitsu) - simple, lightweight & framework agnostic JSON:API client
 - [twitter-lite](https://github.com/draftbit/twitter-lite) - tiny, full-featured, flexible client / server library for the Twitter API 
 
-### Body parsers
+### Middleware
 
 - [milliparsec](https://github.com/talentlessguy/milliparsec) - tiniest Node.js body parser ever
-
-### Static servers
-
 - [sirv](https://github.com/lukeed/sirv) - an optimized middleware & CLI application for serving static files~! 
+- [tinyws](https://github.com/talentlessguy/tinyws) - tiny WebSocket middleware for Node.js 
 
 ### Template engines
 
