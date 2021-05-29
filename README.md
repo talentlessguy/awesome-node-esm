@@ -98,6 +98,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [uvu](https://github.com/lukeed/uvu) - an extremely fast and lightweight test runner for Node.js and the browser.
 - [oletus](https://github.com/bearror/oletus) - minimal ECMAScript Module test runner
+- [hanbi](https://github.com/43081j/hanbi) - a small javascript library for stubbing and spying on methods/functions. 
 
 ### CLI
 
@@ -167,4 +168,5 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
 - [cashify](https://github.com/xxczaki/cashify) - lightweight currency conversion library, successor of money.js
 - [microsite](https://github.com/natemoo-re/microsite/) - fast, opinionated static site generator powered by Snowpack
-- [transliterate](https://github.com/sindresorhus/transliterate) - convert Unicode characters to Latin characters using transliteration 
+- [transliterate](https://github.com/sindresorhus/transliterate) - convert Unicode characters to Latin characters using transliteration
+- [emittery](https://github.com/sindresorhus/emittery) - simple and modern async event emitter.
