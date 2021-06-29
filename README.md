@@ -71,7 +71,8 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [milliparsec](https://github.com/talentlessguy/milliparsec) - tiniest Node.js body parser ever
 - [sirv](https://github.com/lukeed/sirv) - an optimized middleware & CLI application for serving static files~! 
-- [tinyws](https://github.com/talentlessguy/tinyws) - tiny WebSocket middleware for Node.js 
+- [tinyws](https://github.com/talentlessguy/tinyws) - tiny WebSocket middleware for Node.js
+- [malibu](https://github.com/tinyhttp/malibu) - framework-agnostic CSRF middleware for modern Node.js 
 
 ### Template engines
 
