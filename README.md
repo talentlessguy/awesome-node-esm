@@ -73,6 +73,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [sirv](https://github.com/lukeed/sirv) - an optimized middleware & CLI application for serving static files~! 
 - [tinyws](https://github.com/talentlessguy/tinyws) - tiny WebSocket middleware for Node.js
 - [malibu](https://github.com/tinyhttp/malibu) - framework-agnostic CSRF middleware for modern Node.js 
+- [lru-send](https://github.com/tinyhttp/lru-send) - LRU-based caching middleware for Node.js
 
 ### Template engines
 
