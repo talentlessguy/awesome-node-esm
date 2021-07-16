@@ -78,6 +78,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 ### Template engines
 
 - [eta](https://github.com/eta-dev/eta) - embedded JS template engine for Node, Deno, and the browser
+- [tempura](https://github.com/lukeed/tempura) - A light, crispy, and delicious template engine
 
 ### SSR
 
