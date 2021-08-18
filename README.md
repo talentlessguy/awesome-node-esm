@@ -167,6 +167,11 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 
+### Ethereum
+
+- [get-ens](https://github.com/talentlessguy/get-ens) - Get text records of an ENS address
+- [send-tx](https://github.com/talentlessguy/send-tx) - Sign & send Ethereum transactions
+
 ### Other
 
 - [turf](https://github.com/Turfjs/turf) - a modular geospatial engine written in JavaScript 
