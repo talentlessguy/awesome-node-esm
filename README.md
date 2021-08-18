@@ -29,6 +29,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
   - [AST](#ast)
   - [Functional programming](#functional-programming)
   - [Math](#math)
+  - [Ethereum](#ethereum)
   - [Other](#other)
 
 ## Articles
