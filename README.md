@@ -47,6 +47,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [dual-publish](https://github.com/ai/dual-publish) - publish JS project as dual ES modules and CommonJS package to npm
 - [cjstoesm](https://github.com/wessberg/cjstoesm) - tool that can transform CommonJS to ESM
 - [esbuild-node-loader](https://github.com/antfu/esbuild-node-loader) - transpile TypeScript to ESM with Node.js loader.
+- [tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 
 ## Packages
 
