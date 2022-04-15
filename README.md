@@ -11,10 +11,9 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [Packages](#packages)
   - [Web frameworks](#web-frameworks)
   - [HTTP](#http)
-  - [Body parsers](#body-parsers)
-  - [Static servers](#static-servers)
+  - [WebSocket](#websocket)
   - [Template engines](#template-engines)
-  - [SSR tools](#ssr-tools)
+  - [SSR](#ssr)
   - [Databases](#databases)
   - [Logging](#logging)
   - [Testing](#testing)
@@ -68,6 +67,10 @@ A curated list of Node.js modules with native ESM support and resources about ES
 
 - [kitsu](https://github.com/wopian/kitsu) - simple, lightweight & framework agnostic JSON:API client
 - [twitter-lite](https://github.com/draftbit/twitter-lite) - tiny, full-featured, flexible client / server library for the Twitter API 
+
+### WebSocket
+
+- [sockette](https://github.com/lukeed/sockette) - tiny wrapper around WebSocket that will automatically reconnect if the connection is lost!
 
 ### Middleware
 
