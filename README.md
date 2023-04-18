@@ -109,6 +109,7 @@ A curated list of Node.js modules with native ESM support and resources about ES
 - [uvu](https://github.com/lukeed/uvu) - an extremely fast and lightweight test runner for Node.js and the browser.
 - [oletus](https://github.com/bearror/oletus) - minimal ECMAScript Module test runner
 - [hanbi](https://github.com/43081j/hanbi) - a small javascript library for stubbing and spying on methods/functions. 
+- [wirepig](https://github.com/griffinmyers/wirepig) - mock HTTP and TCP dependencies with real sockets.
 
 ### CLI
 
